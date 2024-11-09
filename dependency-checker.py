@@ -9,7 +9,7 @@ def check_dependencies():
         'numpy': 'Numerical computing',
         'nltk': 'Natural Language Processing toolkit',
         'scikit-learn': 'Machine learning utilities',
-        'keras': 'Deep learning library (part of TensorFlow)'
+        'matplotlib': 'Visualization library for GloVe embeddings',
     }
     
     print("Checking dependencies...\n")
